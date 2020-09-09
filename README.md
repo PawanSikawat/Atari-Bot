@@ -1,2 +1,2 @@
 # SemiSupervised-Learning
-A bot that uses semi-supervised learning & CNN to learn a game of Atari.
+A bot that uses reinforcement learning & CNN to learn a game of Atari.
